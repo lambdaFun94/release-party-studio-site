@@ -1,0 +1,148 @@
+{
+	"__": {
+		"entityPageSet": {
+			"plugin": {}
+		},
+		"name": "product",
+		"streamId": "skis",
+		"templateType": "JS"
+	},
+	"businessId": 3902332,
+	"c_ability": "Advanced-Expert",
+	"c_abilityLevel": [
+		80041137
+	],
+	"c_brand": "Armada",
+	"c_categoryName": "Skis",
+	"c_deployedURL": "https://commerce.skiware.us/men/ski/skis/armada_edollo_skis_2023",
+	"c_details": [
+		{
+			"value": "AR Nose Rocker – A traditional sidecut is paired with tip rocker and standard camber for easier turn initiation without compromising edge hold."
+		},
+		{
+			"value": "Flex (1=Soft, 10=Stiff) – Tip: 6 | Mid: 6 | Tail: 7"
+		},
+		{
+			"value": "Poplar Ash Core – Lightweight poplar is combined with higher density full-length ask stringers to create an impossibly lively ski that has all the power needed for boosting to new elevations."
+		},
+		{
+			"value": "Laminate Matrix – A directional layering of fiberglass dictates the flex pattern and torsional rigidity of the ski to create the ultimate lively and forgiving feel with quick response."
+		},
+		{
+			"value": "AR75 Sidewall – Sidewalls provide improved edge pressure under the boot, while cap constuction in the tip and tail provides smooth turn initiation and less hookiness - 75% sidewall, 25% cap."
+		},
+		{
+			"value": "Comp Series Base – Sintered UHMW polyethylene with added carbon aids in speed and durability on snow."
+		},
+		{
+			"value": "2.5 Impact Edge – Oversized and specially heat-treated, this edge is built to resist impact damage in the most demanding situations."
+		},
+		{
+			"value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+		}
+	],
+	"c_genderName": "Men",
+	"c_price": "649.95",
+	"c_productType": "Ski",
+	"c_rockerType": "Rocker/Camber",
+	"c_sizeDescriptor": "Ski length (cm)",
+	"c_sizeRequired": true,
+	"c_sizes": [
+		"164",
+		"172"
+	],
+	"c_specs": [
+		{
+			"name": "Terrain",
+			"value": "Park \u0026 Pipe"
+		},
+		{
+			"name": "Skis",
+			"value": "No Bindings"
+		},
+		{
+			"name": "Ability Level",
+			"value": "Advanced-Expert"
+		},
+		{
+			"name": "Rocker Type",
+			"value": "Rocker/Camber"
+		},
+		{
+			"name": "Turning Radius",
+			"value": "Medium"
+		},
+		{
+			"name": "Core/Laminates",
+			"value": "Wood"
+		},
+		{
+			"name": "Tail Type",
+			"value": "Full Twin Tip"
+		},
+		{
+			"name": "Athletes",
+			"value": "Henrik Harlaut"
+		},
+		{
+			"name": "Warranty",
+			"value": "2 Years"
+		}
+	],
+	"c_terrain": [
+		80041091
+	],
+	"c_terrainName": "Park \u0026 Pipe",
+	"c_turningRadius": "Medium",
+	"dm_directoryParents": [
+		82237253,
+		82237261,
+		91988806,
+		91988816
+	],
+	"id": "armada_edollo_skis_2023",
+	"key": "0:product:knowledgeGraph:82280222:en",
+	"locale": "en",
+	"meta": {
+		"entityType": {
+			"id": "ce_product",
+			"uid": 133903
+		},
+		"locale": "en"
+	},
+	"name": "Armada Edollo Skis 2023",
+	"photoGallery": [
+		{
+			"image": {
+				"height": 700,
+				"url": "http://a.mktgcdn.com/p/udv8XEMHwlo5ELILm1PCSXWTGrQwfBeoH-0pOS9CGB0/700x700.jpg",
+				"width": 700
+			}
+		},
+		{
+			"image": {
+				"height": 700,
+				"url": "http://a.mktgcdn.com/p/iv7f4ZzbZxoALiV46OpDBof6ST3aplXf3uI2PVkkc0k/700x700.jpg",
+				"width": 700
+			}
+		},
+		{
+			"image": {
+				"height": 700,
+				"url": "http://a.mktgcdn.com/p/CqvhcugJDgNT7ZI8BMRofg1lEXlimLi2jVXwIBzxPHM/700x700.jpg",
+				"width": 700
+			}
+		}
+	],
+	"ref_listings": [],
+	"ref_reviewsAgg": [],
+	"savedFilters": [
+		"233793",
+		"243618"
+	],
+	"siteDomain": "",
+	"siteId": 0,
+	"siteInternalHostName": "",
+	"slug": "men/ski/skis/armada_edollo_skis_2023",
+	"uid": 82280222
+}

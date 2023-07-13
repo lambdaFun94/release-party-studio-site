@@ -1,0 +1,18 @@
+{
+	"__": {
+		"name": "buddy",
+		"staticPage": {
+			"plugin": {}
+		},
+		"templateType": "JS"
+	},
+	"businessId": 3902332,
+	"key": "0:buddy:knowledgeGraph:0:en",
+	"locale": "en",
+	"meta": {
+		"locale": "en"
+	},
+	"siteDomain": "",
+	"siteId": 0,
+	"siteInternalHostName": ""
+}

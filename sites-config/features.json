@@ -1,0 +1,12 @@
+{
+  "features": [
+    {
+      "name": "buddy",
+      "templateType": "JS",
+      "staticPage": {
+        "plugin": {}
+      }
+    }
+  ],
+  "streams": []
+}

@@ -1,0 +1,160 @@
+{
+	"__": {
+		"entityPageSet": {
+			"plugin": {}
+		},
+		"name": "product",
+		"streamId": "skis",
+		"templateType": "JS"
+	},
+	"businessId": 3902332,
+	"c_ability": "Intermediate-Advanced",
+	"c_abilityLevel": [
+		80041122
+	],
+	"c_brand": "Black Crows",
+	"c_categoryName": "Skis",
+	"c_deployedURL": "https://commerce.skiware.us/women/ski/skis/black_crows_atris_birdie_skis_women_s_2023",
+	"c_details": [
+		{
+			"value": "Double Rocker – Great maneuverability, control, and pivot."
+		},
+		{
+			"value": "Classic Medium Camber – Classic camber underfoot with intermediate ski/ snow contact for a perfect balance between stability and handling."
+		},
+		{
+			"value": "Flex – Firm and constant flex, a very stable ski."
+		},
+		{
+			"value": "Slightly Straight Sidecut – More stability at high speed and better balance between firmness and maneuverability."
+		},
+		{
+			"value": "Progressive Tip Floatation – Great consistency in turns, easy to get off the ground."
+		},
+		{
+			"value": "Poplar / Fiberglass"
+		},
+		{
+			"value": "Semi Cap Construction"
+		},
+		{
+			"value": "ABS Sidewalls All Around"
+		},
+		{
+			"value": "Mounting Point – -8cm"
+		},
+		{
+			"value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+		}
+	],
+	"c_genderName": "Women",
+	"c_price": "899.95",
+	"c_productDescription": "Introducing the Black Crows Atris Birdie Skis, designed specifically for women looking to bring their skiing game to new heights. These skis offer ultimate versatility and control on any terrain, from groomed slopes to powder-filled backcountry. The skis feature a poplar wood core and rocker profile that enhances floatation in deep snow and eases turn initiation. The 2023 edition is an updated version that prioritizes stability at high speeds with its double titanal reinforcement underfoot. With a sleek black design accented by bold graphics, the Black Crows Atris Birdie Skis are a powerful statement piece that will leave you feeling confident and stylish as you navigate the mountain.",
+	"c_productType": "Ski",
+	"c_rockerType": "Rocker/Camber/Rocker",
+	"c_sizeDescriptor": "Ski length (cm)",
+	"c_sizeRequired": true,
+	"c_sizes": [
+		"160",
+		"166",
+		"172",
+		"178"
+	],
+	"c_specs": [
+		{
+			"name": "Terrain",
+			"value": "All-Mountain, Big Mountain"
+		},
+		{
+			"name": "Skis",
+			"value": "No Bindings"
+		},
+		{
+			"name": "Ability Level",
+			"value": "Intermediate-Advanced"
+		},
+		{
+			"name": "Rocker Type",
+			"value": "Rocker/Camber/Rocker"
+		},
+		{
+			"name": "Turning Radius",
+			"value": "Medium"
+		},
+		{
+			"name": "Core/Laminates",
+			"value": "Wood"
+		},
+		{
+			"name": "Tail Type",
+			"value": "Partial Twin Tip"
+		},
+		{
+			"name": "Warranty",
+			"value": "2 Years"
+		}
+	],
+	"c_terrain": [
+		80041144
+	],
+	"c_terrainName": "All-Mountain",
+	"c_turningRadius": "Medium",
+	"dm_directoryParents": [
+		82237253,
+		82281622,
+		91988808,
+		91988815
+	],
+	"id": "black_crows_atris_birdie_skis_women_s_2023",
+	"key": "0:product:knowledgeGraph:82280216:en",
+	"locale": "en",
+	"meta": {
+		"entityType": {
+			"id": "ce_product",
+			"uid": 133903
+		},
+		"locale": "en"
+	},
+	"name": "Black Crows Atris Birdie Skis - Women's 2023",
+	"photoGallery": [
+		{
+			"image": {
+				"height": 700,
+				"url": "http://a.mktgcdn.com/p/LX5U-o4GmaJSpdLajZYrjdUer0ob-WylJKzDPzRiIoI/700x700.jpg",
+				"width": 700
+			}
+		},
+		{
+			"image": {
+				"height": 700,
+				"url": "http://a.mktgcdn.com/p/LX5U-o4GmaJSpdLajZYrjdUer0ob-WylJKzDPzRiIoI/700x700.jpg",
+				"width": 700
+			}
+		},
+		{
+			"image": {
+				"height": 700,
+				"url": "http://a.mktgcdn.com/p/LX5U-o4GmaJSpdLajZYrjdUer0ob-WylJKzDPzRiIoI/700x700.jpg",
+				"width": 700
+			}
+		},
+		{
+			"image": {
+				"height": 700,
+				"url": "http://a.mktgcdn.com/p/LX5U-o4GmaJSpdLajZYrjdUer0ob-WylJKzDPzRiIoI/700x700.jpg",
+				"width": 700
+			}
+		}
+	],
+	"ref_listings": [],
+	"ref_reviewsAgg": [],
+	"savedFilters": [
+		"233793",
+		"243618"
+	],
+	"siteDomain": "",
+	"siteId": 0,
+	"siteInternalHostName": "",
+	"slug": "women/ski/skis/black_crows_atris_birdie_skis_women_s_2023",
+	"uid": 82280216
+}

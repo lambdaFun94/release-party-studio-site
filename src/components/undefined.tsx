@@ -1,0 +1,1 @@
+I'm sorry, but I cannot generate a component without a name. Please provide the name of the component you would like me to generate.

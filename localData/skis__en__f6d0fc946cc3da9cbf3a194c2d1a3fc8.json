@@ -1,0 +1,163 @@
+{
+	"__": {
+		"entityPageSet": {
+			"plugin": {}
+		},
+		"name": "product",
+		"streamId": "skis",
+		"templateType": "JS"
+	},
+	"businessId": 3902332,
+	"c_ability": "Advanced-Expert",
+	"c_abilityLevel": [
+		80041137
+	],
+	"c_brand": "Elan",
+	"c_categoryName": "Skis",
+	"c_deployedURL": "https://commerce.skiware.us/women/ski/skis/elan_ripstick_102_skis_women_s_2023",
+	"c_details": [
+		{
+			"value": "Amphibio Profile / Asymmetrical Design – The Amphibio profile is a revolutionary ski design that integrates both rocker and camber profiles into dedicated left and right skis. Amphibio skis feature a cambered inside edge assuring precision, edge grip, and stability while a rockered outside edge provides forgiveness, turning ease and smooth transitions."
+		},
+		{
+			"value": "Tubelite Wood Core – To create the TubeLite Wood Core, two super lightweight Carbon tubes are inserted into a lightweight laminated wood core. Measuring 5mm in diameter and hollow in their construction, these tubes run along the length of the ski following the arc of the side cut. They provide torsional stability and powerful rebound while allowing for material reduction of the core. The result is incredible lightweight response and stability."
+		},
+		{
+			"value": "Carbon Line Technology – Amphibio Carbon Line technology is a combination of innovations that provide the best balance of lightweight construction with power and performance. Amphibio Carbon Line technology elevates the asymmetrical ski design to the next level by strategically locating carbon reinforcement over the inside edges of the skis providing more power in the turn, while carbon rods inserted into the woodcore maximize weight savings and overall stability. The end result is an extremely lightweight high performance ski with uncompromised versatility and smooth performance."
+		},
+		{
+			"value": "Vapor Tip Inserts – Vapor Tip inserts are advanced composites that are integrated into the tip and tail area of the ski‘s core. These inserts reduce weight and vibration, dramatically improving stability and ensuring a smooth ride even in the most demanding conditions."
+		},
+		{
+			"value": "Fiberglass – Fiberglass reinforcement optimizes the ﬂex pattern and enhances torsional rigidity of the ski. The fibers are positioned either above or below the ski core and improve the ski’s structural integrity."
+		},
+		{
+			"value": "Carbon Rods – Lightweight Carbon tubes inserted into the ski and run the length of the ski following the arc of the side cut. The carbon tubes provide torsional stability and powerful rebound while allowing for material reduction of the core. The result is incredible lightweight response and stability."
+		},
+		{
+			"value": "SST Sidewall Construction – The SST Sidewall Construction provides quick, nimble and direct power transmission from the ski to snow as well as providing exceptional torsional rigidity."
+		},
+		{
+			"value": "Sintered UHMW Base"
+		},
+		{
+			"value": "Climbing Skin Notch at Tail"
+		},
+		{
+			"value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+		}
+	],
+	"c_genderName": "Women",
+	"c_price": "699.99",
+	"c_productType": "Ski",
+	"c_rockerType": "Rocker/Camber/Rocker",
+	"c_sizeDescriptor": "Ski length (cm)",
+	"c_sizeRequired": true,
+	"c_sizes": [
+		"154",
+		"162",
+		"170",
+		"178"
+	],
+	"c_specs": [
+		{
+			"name": "Terrain",
+			"value": "All-Mountain, Big Mountain"
+		},
+		{
+			"name": "Skis",
+			"value": "No Bindings"
+		},
+		{
+			"name": "Ability Level",
+			"value": "Advanced-Expert"
+		},
+		{
+			"name": "Rocker Type",
+			"value": "Rocker/Camber/Rocker"
+		},
+		{
+			"name": "Turning Radius",
+			"value": "Short"
+		},
+		{
+			"name": "Core/Laminates",
+			"value": "Carbon, Wood"
+		},
+		{
+			"name": "Tail Type",
+			"value": "Flat"
+		},
+		{
+			"name": "Athletes",
+			"value": "Sammi Bushman"
+		},
+		{
+			"name": "Warranty",
+			"value": "2 Years"
+		}
+	],
+	"c_terrain": [
+		80041144
+	],
+	"c_terrainName": "All-Mountain",
+	"c_turningRadius": "Short",
+	"dm_directoryParents": [
+		82237253,
+		82281622,
+		91988808,
+		91988815
+	],
+	"id": "elan_ripstick_102_skis_women_s_2023",
+	"key": "0:product:knowledgeGraph:82280217:en",
+	"locale": "en",
+	"meta": {
+		"entityType": {
+			"id": "ce_product",
+			"uid": 133903
+		},
+		"locale": "en"
+	},
+	"name": "Elan Ripstick 102 Skis - Women's 2023",
+	"photoGallery": [
+		{
+			"image": {
+				"height": 700,
+				"url": "http://a.mktgcdn.com/p/7-wFtQoUd883wGLK3x5QI-Wk4xP0aouQRGZ71XtM64I/700x700.png",
+				"width": 700
+			}
+		},
+		{
+			"image": {
+				"height": 700,
+				"url": "http://a.mktgcdn.com/p/7-wFtQoUd883wGLK3x5QI-Wk4xP0aouQRGZ71XtM64I/700x700.png",
+				"width": 700
+			}
+		},
+		{
+			"image": {
+				"height": 700,
+				"url": "http://a.mktgcdn.com/p/7-wFtQoUd883wGLK3x5QI-Wk4xP0aouQRGZ71XtM64I/700x700.png",
+				"width": 700
+			}
+		},
+		{
+			"image": {
+				"height": 700,
+				"url": "http://a.mktgcdn.com/p/7-wFtQoUd883wGLK3x5QI-Wk4xP0aouQRGZ71XtM64I/700x700.png",
+				"width": 700
+			}
+		}
+	],
+	"ref_listings": [],
+	"ref_reviewsAgg": [],
+	"savedFilters": [
+		"233793",
+		"243618"
+	],
+	"siteDomain": "",
+	"siteId": 0,
+	"siteInternalHostName": "",
+	"slug": "women/ski/skis/elan_ripstick_102_skis_women_s_2023",
+	"uid": 82280217
+}

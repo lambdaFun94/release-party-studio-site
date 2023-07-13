@@ -1,0 +1,124 @@
+{
+	"__": {
+		"entityPageSet": {
+			"plugin": {}
+		},
+		"name": "product",
+		"streamId": "skis",
+		"templateType": "JS"
+	},
+	"businessId": 3902332,
+	"c_ability": "Intermediate-Advanced",
+	"c_abilityLevel": [
+		80041122
+	],
+	"c_brand": "Völkl",
+	"c_categoryName": "Skis",
+	"c_deployedURL": "https://commerce.skiware.us/men/ski/skis/v_lkl_revolt_86_picture_skis_2023",
+	"c_details": [
+		{
+			"value": "Tip \u0026 Tail Rocker – Bends up only in the shovel and tail zones, with a camber shape in the middle."
+		},
+		{
+			"value": "Twin Tip – Twin tip construction for skiing/landing backwards."
+		},
+		{
+			"value": "Multilayer Woodcore – The combination of beech and poplar results in an extremely durable wood core composed of hard wood in the binding area and lighter wood surrounding it."
+		},
+		{
+			"value": "Cap Sidewall"
+		},
+		{
+			"value": "P-Tex 3000 Base"
+		},
+		{
+			"value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+		}
+	],
+	"c_genderName": "Men",
+	"c_price": "399.99",
+	"c_productDescription": "The Völkl Revolt 86 Picture Skis 2023 are the perfect choice for intermediate to advanced skiers who love to explore all-mountain terrain. Designed by Völkl, these skis feature a rocker/camber/rocker construction that delivers enhanced maneuverability, power, and stability on variable snow conditions. With a medium turn radius, these skis allow for quick turns while maintaining stability at high speeds. The latest technology utilized in the making of the Revolt 86 Picture Skis maximizes precision and control whether you take them on groomers or powder runs. You'll enjoy every turn with these stunners!",
+	"c_productType": "Ski",
+	"c_rockerType": "Rocker/Camber/Rocker",
+	"c_sizeDescriptor": "Ski length (cm)",
+	"c_sizeRequired": true,
+	"c_sizes": [
+		"156"
+	],
+	"c_specs": [
+		{
+			"name": "Terrain",
+			"value": "Park \u0026 Pipe, All-Mountain"
+		},
+		{
+			"name": "Skis",
+			"value": "No Bindings"
+		},
+		{
+			"name": "Ability Level",
+			"value": "Intermediate-Advanced"
+		},
+		{
+			"name": "Rocker Type",
+			"value": "Rocker/Camber/Rocker"
+		},
+		{
+			"name": "Turning Radius",
+			"value": "Medium"
+		},
+		{
+			"name": "Core/Laminates",
+			"value": "Wood"
+		},
+		{
+			"name": "Tail Type",
+			"value": "Full Twin Tip"
+		},
+		{
+			"name": "Warranty",
+			"value": "1 Year"
+		}
+	],
+	"c_terrain": [
+		80041144
+	],
+	"c_terrainName": "All-Mountain",
+	"c_turningRadius": "Medium",
+	"dm_directoryParents": [
+		82237253,
+		82237261,
+		91988806,
+		91988816
+	],
+	"id": "v_lkl_revolt_86_picture_skis_2023",
+	"key": "0:product:knowledgeGraph:82280214:en",
+	"locale": "en",
+	"meta": {
+		"entityType": {
+			"id": "ce_product",
+			"uid": 133903
+		},
+		"locale": "en"
+	},
+	"name": "Völkl Revolt 86 Picture Skis 2023",
+	"photoGallery": [
+		{
+			"image": {
+				"height": 700,
+				"url": "http://a.mktgcdn.com/p/nLplsbuVa8QAFgl6xIJnh2Uf4hinSFdXe_dCmHqjhyY/700x700.png",
+				"width": 700
+			}
+		}
+	],
+	"ref_listings": [],
+	"ref_reviewsAgg": [],
+	"savedFilters": [
+		"233793",
+		"243618"
+	],
+	"siteDomain": "",
+	"siteId": 0,
+	"siteInternalHostName": "",
+	"slug": "men/ski/skis/v_lkl_revolt_86_picture_skis_2023",
+	"uid": 82280214
+}

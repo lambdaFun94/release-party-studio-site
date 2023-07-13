@@ -1,0 +1,163 @@
+{
+	"__": {
+		"entityPageSet": {
+			"plugin": {}
+		},
+		"name": "product",
+		"streamId": "skis",
+		"templateType": "JS"
+	},
+	"businessId": 3902332,
+	"c_ability": "Advanced-Expert",
+	"c_abilityLevel": [
+		80041137
+	],
+	"c_brand": "Atomic",
+	"c_categoryName": "Skis",
+	"c_deployedURL": "https://commerce.skiware.us/men/ski/skis/atomic_backland_107_skis_2023",
+	"c_details": [
+		{
+			"value": "Powder Rocker – 20% Tip Rocker / 70% Camber / 10% Tail Rocker"
+		},
+		{
+			"value": "Directional Shape"
+		},
+		{
+			"value": "HRZN Tech Tip – HRZN Tech adds 10% more surface area at your ski tips. For awesome flotation in powder plus less tip deflection and better tracking through chop."
+		},
+		{
+			"value": "Ultra Light Woodcore – The combination of caruba and poplar wood makes this core ultra light, for skis that are all about low weight."
+		},
+		{
+			"value": "Carbon Backbone – An ultra-lightweight carbon insert that runs the length of the ski like a stabilizing backbone."
+		},
+		{
+			"value": "Fiberglass – Continuous fiberglass layers create a ski that is smooth and stable while remaining lightweight and dynamic."
+		},
+		{
+			"value": "Dura Cap Sidewall – Sidewall from base to topsheet for controlled power transmission and great edge grip. The rounded shape of the Dura Cap is a fantastic durability feature as it picks up fewer dents and dings."
+		},
+		{
+			"value": "Glossy Topsheet"
+		},
+		{
+			"value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+		}
+	],
+	"c_genderName": "Men",
+	"c_price": "749.95",
+	"c_productDescription": "The Atomic Backland 107 Skis of 2023 are an excellent choice for advanced to expert level skiers. Perfect for Alpine Touring, these skis boast a Rocker/Camber/Rocker design that provides great versatility and maneuverability on the backcountry terrain. With their medium turning radius, these skis allow you to make quick turns with ease and precision, while also being stable at high speeds. The Atomic Backland brand is known for creating high-quality ski equipment that's designed to tackle tough descents, and these skis live up to that reputation. If you're looking for a reliable set of backcountry touring skis that can handle anything you throw their way, the Atomic Backland 107 Skis of 2023 are definitely worth considering!",
+	"c_productType": "Ski",
+	"c_rockerType": "Rocker/Camber/Rocker",
+	"c_sizeDescriptor": "Ski length (cm)",
+	"c_sizeRequired": true,
+	"c_sizes": [
+		"175",
+		"182",
+		"189"
+	],
+	"c_specs": [
+		{
+			"name": "Terrain",
+			"value": "Alpine Touring"
+		},
+		{
+			"name": "Skis",
+			"value": "No Bindings"
+		},
+		{
+			"name": "Ability Level",
+			"value": "Advanced-Expert"
+		},
+		{
+			"name": "Rocker Type",
+			"value": "Rocker/Camber/Rocker"
+		},
+		{
+			"name": "Turning Radius",
+			"value": "Medium"
+		},
+		{
+			"name": "Core/Laminates",
+			"value": "Carbon, Wood"
+		},
+		{
+			"name": "Tail Type",
+			"value": "Partial Twin Tip"
+		},
+		{
+			"name": "Warranty",
+			"value": "2 Years"
+		}
+	],
+	"c_terrain": [
+		80041157
+	],
+	"c_terrainName": "Alpine Touring",
+	"c_turningRadius": "Medium",
+	"dm_directoryParents": [
+		82237253,
+		82237261,
+		91988806,
+		91988816
+	],
+	"id": "atomic_backland_107_skis_2023",
+	"key": "0:product:knowledgeGraph:82280220:en",
+	"locale": "en",
+	"meta": {
+		"entityType": {
+			"id": "ce_product",
+			"uid": 133903
+		},
+		"locale": "en"
+	},
+	"name": "Atomic Backland 107 Skis 2023",
+	"photoGallery": [
+		{
+			"image": {
+				"height": 700,
+				"url": "http://a.mktgcdn.com/p/NikQcoyUpUvmHFbw9pzLLhs3GupJVajNyhv3mVw17AI/700x700.png",
+				"width": 700
+			}
+		},
+		{
+			"image": {
+				"height": 700,
+				"url": "http://a.mktgcdn.com/p/OklgC6XMwLJlbDZlQp_jp1jTq36Liuzk56GPaFSdGxo/700x700.png",
+				"width": 700
+			}
+		},
+		{
+			"image": {
+				"height": 700,
+				"url": "http://a.mktgcdn.com/p/KBXbLfIVrmg5s83pKMLXa0RPmArvwILZdP95fvafzpU/700x700.jpg",
+				"width": 700
+			}
+		},
+		{
+			"image": {
+				"height": 700,
+				"url": "http://a.mktgcdn.com/p/ufjCATTB8DK4xBdCy9HWxxNtianPPm06AsiF6jinV14/700x700.jpg",
+				"width": 700
+			}
+		},
+		{
+			"image": {
+				"height": 700,
+				"url": "http://a.mktgcdn.com/p/FWAh7ttbtDV3p6mG8hLWt_YfoHjhNFKQEqAV-Yz_qx8/700x700.jpg",
+				"width": 700
+			}
+		}
+	],
+	"ref_listings": [],
+	"ref_reviewsAgg": [],
+	"savedFilters": [
+		"233793",
+		"243618"
+	],
+	"siteDomain": "",
+	"siteId": 0,
+	"siteInternalHostName": "",
+	"slug": "men/ski/skis/atomic_backland_107_skis_2023",
+	"uid": 82280220
+}
